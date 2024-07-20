@@ -1,0 +1,8 @@
+specs:
+
+1. Generate list of random integers
+2. List size must be specified by user at rum-time
+3. Range of values will be specified by user at runtime
+4. Run different sort functions with generated list of integers
+5. Calculate and display the time of it took to run the functions
+6. Allow for multiple runs
